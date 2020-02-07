@@ -1,0 +1,14 @@
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\bin\Debug\SteelHelix.exe
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\bin\Debug\SteelHelix.pdb
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\bin\Debug\SteelHelix.xml
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.Form1.resources
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.Resources.resources
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.vbproj.GenerateResource.Cache
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.exe
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.xml
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.pdb
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\bin\Debug\SteelHelix.exe.manifest
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\bin\Debug\SteelHelix.application
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.exe.manifest
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.application
+C:\Users\Elliot\Documents\Visual Studio 2010\Projects\SteelHelix\obj\x86\Debug\SteelHelix.SteelHelixSplashScreen.resources
